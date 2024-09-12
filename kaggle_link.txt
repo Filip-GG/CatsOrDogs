@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/filippgg/cats-or-dogs-torch-resnet50-ru
